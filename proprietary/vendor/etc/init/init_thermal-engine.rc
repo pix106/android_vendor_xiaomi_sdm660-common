@@ -7,7 +7,7 @@
 #Copyright (c) 2013-2018, The Linux Foundation. All rights reserved.
 #
 
-service thermal-engine /vendor/bin/thermal-engine
+service thermal-engine /vendor/bin/thermal-engine -c /vendor/etc/thermal-engine.conf
 	class main
 	user root
 	group root
