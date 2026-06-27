@@ -693,7 +693,6 @@ PRODUCT_PACKAGES += \
     datachannellib \
     dpmapi \
     qcrilhook \
-    qti-telephony-common \
     vendor.qti.data.factory-V1.0-java \
     vendor.qti.data.factory-V2.0-java \
     vendor.qti.data.factory-V2.1-java \
